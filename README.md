@@ -1,4 +1,7 @@
-#linkedin auto-endorser
+# linkedin auto-endorser extension
+
+## install
+1. install as unpacked chrome extension
 
 ## instructions
 1. navigate to the profile that you want to endorse, click "Show all X skills -->", or, navigate to https://www.linkedin.com/in/[USER]/details/skills
