@@ -1,0 +1,11 @@
+{
+  "name": "auto-endorser",
+  "description": "",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": { },
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
